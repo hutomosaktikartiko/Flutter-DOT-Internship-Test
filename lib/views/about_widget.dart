@@ -39,7 +39,7 @@ class _AboutState extends State<About> with SingleTickerProviderStateMixin {
                 text: "Informasi",
               ),
               Tab(
-                text: "Versi Liris",
+                text: "Versi Rilis",
               ),
             ]),
           ),
