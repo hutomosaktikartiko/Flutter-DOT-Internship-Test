@@ -1,16 +1,31 @@
-# dot_test
+# DOT Flutter Test
 
-A new Flutter project.
+This application was made for an internship test at DOT Indonesia.
 
-## Getting Started
+## Knowledge & Experience Questions
 
-This project is a starting point for a Flutter application.
+1. Sudah berapa lama anda mulai menggunakan Flutter?
+   Hampir 4 bulan, mulain bulan februari.
 
-A few resources to get you started if this is your first Flutter project:
+2. Apa saja library Flutter yang sering atau biasa anda pakai? Jelaskan kegunaannya bagi anda.
+   - http
+    Berisi serangkaian functions yang memudahkan dalam mengkomsumi API.
+   - Cached network image
+    Meload gambar dari internet dan menyimpannya menjadi cache.
+   - Firebase Auth
+    Memudahkan dalam penggunaan sistem authentikasi firebase
+   - Cloud Firestore
+    Memudahkan dalam penggunaan Firestore
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+3. Apakah tantangan terbesar yang pernah anda temui dalam mengerjakan aplikasi Flutter dan bagaimana anda menyelesaikannya dari sisi engineering? Misal dari sisi Android dan iOS.
+   - Sulit membuat aplikasi yang responsive untuk berbagai jenis layar, Solusinya menggunakan MediaQuery.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+4. Jelaskan teknik-teknik apa saja yang dapat meningkatkan performance dan keamanan sebuah aplikasi Flutter.
+   - Mengurangi penggunaan penyimpanan cache
+   - Untuk meningkatkan peforma aplikasi maka pada aplikasi hanya melakukan set & get data, untuk pengolahan data dilakukan oleh API
+
+## Install App
+[Download](https://drive.google.com/file/d/1SYnHTdN12-tWdF37SMvuhNwkPsdkpc2i/view?usp=sharing)
+
+## Screenshoot
+
