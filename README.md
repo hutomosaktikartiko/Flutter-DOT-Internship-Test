@@ -28,4 +28,10 @@ This application was made for an internship test at DOT Indonesia.
 [Download](https://drive.google.com/file/d/1SYnHTdN12-tWdF37SMvuhNwkPsdkpc2i/view?usp=sharing)
 
 ## Screenshoot
-
+![Screenshot_2020-05-28-03-26-30-416_com example dot_test](https://user-images.githubusercontent.com/51199036/83070322-829b2b80-a095-11ea-9854-4e82b4937ac1.jpg)
+![Screenshot_2020-05-28-03-27-25-136_com example dot_test](https://user-images.githubusercontent.com/51199036/83070358-8cbd2a00-a095-11ea-9ac2-6de12f1f6be2.jpg)
+![Screenshot_2020-05-28-03-27-28-919_com example dot_test](https://user-images.githubusercontent.com/51199036/83070375-93e43800-a095-11ea-8504-3457e5cf1945.jpg)
+![Screenshot_2020-05-28-03-27-18-691_com example dot_test](https://user-images.githubusercontent.com/51199036/83070386-99da1900-a095-11ea-8e56-367865a87464.jpg)
+![Screenshot_2020-05-28-03-27-42-515_com example dot_test](https://user-images.githubusercontent.com/51199036/83070399-a0689080-a095-11ea-9d6b-e9b156d48823.jpg)
+![Screenshot_2020-05-28-03-27-46-989_com example dot_test](https://user-images.githubusercontent.com/51199036/83070415-a5c5db00-a095-11ea-8b13-e4db1eaea187.jpg)
+![Screenshot_2020-05-28-03-27-49-794_com example dot_test](https://user-images.githubusercontent.com/51199036/83070432-aa8a8f00-a095-11ea-8f23-2606f2929aee.jpg)
